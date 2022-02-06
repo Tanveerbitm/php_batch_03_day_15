@@ -16,8 +16,8 @@
         <a href="" class="navbar-brand">LOGO</a>
         <div class="navbar-nav">
             <li><a href="action.php?pages=password-generate" class="nav-link">Password Generator</a></li>
-            <li><a href="action.php?pages=blogl" class="nav-link">All blog</a></li>
-            <li><a href="action.php?pages=products" class="nav-link">All blog</a></li>
+
+            <li><a href="action.php?pages=products" class="nav-link">All Products</a></li>
         </div>
     </div>
 </nav>
